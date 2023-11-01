@@ -128,8 +128,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Concurrent_Process.cpp" />
     <ClCompile Include="Example_Helloworld.cpp" />
     <ClCompile Include="Example_Specifying_Num_Threads.cpp" />
+    <ClCompile Include="First_Private_Example.cpp" />
+    <ClCompile Include="High_Level_Mutual_Exclusion_Example.cpp" />
+    <ClCompile Include="Last_Private_Example.cpp" />
+    <ClCompile Include="Private_Sharing_Example.cpp" />
     <ClCompile Include="Week_9_Practice.cpp" />
   </ItemGroup>
   <ItemGroup>
